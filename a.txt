@@ -1,3 +1,7 @@
  have created a.txt file
 
- update1  in master
+
+ 
+
+update 1
+>>>>>>> b1
